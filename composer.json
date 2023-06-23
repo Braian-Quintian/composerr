@@ -1,0 +1,17 @@
+{
+    "name": "apolt01-029/conecion-composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": ["./scripts","./scripts/db"]
+        }
+    },
+    "authors": [
+        {
+            "name": "Braian-Quintian",
+            "email": "bquintianromero@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
